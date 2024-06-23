@@ -1,4 +1,4 @@
-## This is my first react native app.
+## My first react native app.
 
 It's a simple goal tracker app.
 I used expo for project setup and android studio virtual device for testing.
